@@ -1,0 +1,14 @@
+body {
+    text-align:center;
+    background-image: linear-gradient(to right,lightblue,pink);
+    border:solid transparent 2px;
+    position: relative;
+    top: 250px;
+}
+#timer {
+    font-size: 50px;
+}
+button {
+    background-color:bisque;
+    size: 20px;
+}
